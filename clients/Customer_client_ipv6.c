@@ -1,4 +1,4 @@
-#include "admsipv6.h"
+#include "../admsipv6.h"
 
 
 void* get_in_addr(struct sockaddr *sa)

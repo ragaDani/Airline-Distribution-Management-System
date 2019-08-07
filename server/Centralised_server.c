@@ -1,4 +1,4 @@
-#include "adms.h"
+#include "../adms.h"
 
 pthread_mutex_t mlock = PTHREAD_MUTEX_INITIALIZER;
 void *centreserver(void *args)
